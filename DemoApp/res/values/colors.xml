@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#03A9F4</color>
+    <color name="primaryColorDark">#0288D1</color>
+    <color name="accentColor">#03A9F4</color>
+    <color name="actionBarColor">#03A9F4</color>
+    <color name="black">#000</color>
+    <color name="gray_divider">#50595e</color>
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="dark_gray">#3d454c</color>
+    <color name="light_gray">#c2c7cc</color>
+    <color name="white">#fff</color>
+
+</resources>

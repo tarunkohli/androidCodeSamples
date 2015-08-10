@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@anim/scale"
+    android:delay="10%" />
+<!-- From: file:/E:/Android%20Common%20project/headstart_projects/DemoApp/res/anim/list_layout_controller.xml -->

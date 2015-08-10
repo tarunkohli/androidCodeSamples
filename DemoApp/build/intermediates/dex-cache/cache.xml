@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\classes-3a90bf6e84ce7482b661e37b9e4ba6b2a149545c.jar" />
+    </item>
+    <item
+        jar="D:\Android new set up\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\parse\bolts\bolts-android\1.2.0\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-be166eea8650c952b8e145ed3686ba08ae6310d8.jar" />
+    </item>
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8766cb931a9f89f6feb97e5aa0884da37b2f74e7.jar" />
+    </item>
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\exploded-aar\DemoApp\google-play-services_lib_new\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff194811587062b0ad87624acfe5a3baf428e57">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\classes-dc09973b052afaae9dd327879cf9a09b7568ea08.jar" />
+    </item>
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\exploded-aar\DemoApp\google-play-services_lib_new\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9b63d9aba531aa7ff5dd30e0c872e8ca550b363a">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\google-play-services-f80c48cdf84ac5e7f2206207898c338e18090d77.jar" />
+    </item>
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\exploded-aar\com.facebook.android\facebook\4.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="250e8e2555b2499638c8145424b542fc283cc23d">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\classes-d3b9807281f04029b13b7fde560d47c781dbc130.jar" />
+    </item>
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\classes-3c7e2c9f1f0769f6847dad4b077da0a31fcb0863.jar" />
+    </item>
+    <item
+        jar="D:\Android new set up\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b69cb5a6bf7cb9735c18db80f4dafb575d1295d6.jar" />
+    </item>
+    <item
+        jar="D:\Android Common project\headstart_projects\DemoApp\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="D:\Android Common project\headstart_projects\DemoApp\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1-29fc6571f315f123dec58109ee13a1aea260a653.jar" />
+    </item>
+
+</items>

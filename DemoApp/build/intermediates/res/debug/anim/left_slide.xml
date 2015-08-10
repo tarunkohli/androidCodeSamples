@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="1000"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+        android:fromXDelta="0%"
+        android:fillAfter="false"
+        android:toXDelta="100%" >
+
+</translate>
+<!-- From: file:/E:/Android%20Common%20project/headstart_projects/DemoApp/res/anim/left_slide.xml -->

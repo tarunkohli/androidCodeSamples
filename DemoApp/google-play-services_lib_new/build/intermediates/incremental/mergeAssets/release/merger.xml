@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android Common project\headstart_projects\DemoApp\google-play-services_lib_new\assets"/></dataSet><dataSet config="release"><source path="E:\Android Common project\headstart_projects\DemoApp\google-play-services_lib_new\build-types\release\assets"/></dataSet></merger>
