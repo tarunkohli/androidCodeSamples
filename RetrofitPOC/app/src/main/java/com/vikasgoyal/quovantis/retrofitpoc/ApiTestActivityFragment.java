@@ -17,7 +17,6 @@ import com.vikasgoyal.quovantis.moduleapi.core.ApiManager;
 import com.vikasgoyal.quovantis.moduleapi.core.ApiResponseListener;
 import com.vikasgoyal.quovantis.moduleapi.core.ServiceBuilder;
 import com.vikasgoyal.quovantis.retrofitpoc.testService.DeviceService;
-import com.vikasgoyal.quovantis.retrofitpoc.testService.SupportedDeviceResponse;
 
 import retrofit2.Call;
 
@@ -63,18 +62,18 @@ public class ApiTestActivityFragment extends Fragment implements View.OnClickLis
                 .addClass(DeviceService.class)
                 .addJsonMapper(String.class, new StringDataDeserializer(), null, null)
                 .build();
-        Call<SupportedDeviceResponse> call = service.getSupportedDevice();
+        Call<String> call = service.getSupportedDevice();
         mCallback = new ApiDeviceResponseHandler();
         call.enqueue(ApiManager.getInstance().addInCallbackHandler(mCallback));
     }
 
-    private class ApiDeviceResponseHandler implements ApiResponseListener<SupportedDeviceResponse> {
+    private class ApiDeviceResponseHandler implements ApiResponseListener<String> {
         @Override
-        public void onResponse(ApiException pApiException, SupportedDeviceResponse pResponse) {
+        public void onResponse(ApiException pApiException, String pResponse) {
             if (mSnackbar.isShown()) {
                 mSnackbar.dismiss();
             }
-            mTxvResultView.setText(pResponse.getAppDevices());
+            mTxvResultView.setText(pResponse);
         }
     }
 }

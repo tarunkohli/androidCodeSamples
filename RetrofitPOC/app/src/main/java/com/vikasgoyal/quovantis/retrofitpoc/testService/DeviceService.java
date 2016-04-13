@@ -10,5 +10,5 @@ public interface DeviceService {
 
 
     @GET(SUPPORTED_DEVICE_LIST)
-    Call<SupportedDeviceResponse> getSupportedDevice();
+    Call<String> getSupportedDevice();
 }
