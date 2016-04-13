@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModuleApi</string>
+    <string name="only_month_reading_allowed_to_delete">Readings older than one month can\'t be deleted.</string>
+    <string name="one_weight_reading_is_mandatory">Oldest weight reading can\'t be deleted.</string>
+    <string name="user_already_exists">User already exists.</string>
+    <string name="invalid_email_id_or_password">Invalid email id or password</string>
+</resources>
