@@ -1,7 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.introapp.activities.SplashScreen">
-
-</menu>
-<!-- From: file:/E:/Android%20Common%20project/headstart_projects/DemoApp/res/menu/menu_splash_screen.xml -->
