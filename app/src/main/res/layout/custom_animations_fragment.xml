@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/custom_animations"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/dp_10"
+        android:paddingTop="@dimen/dp_20"
+        android:paddingRight="@dimen/dp_15"
+        android:paddingLeft="@dimen/dp_15"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

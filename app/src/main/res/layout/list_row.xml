@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/colorAccent"
+    android:transitionName="convertView">
+
+    <TextView
+        android:id="@+id/title"
+        android:text="Title"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="@dimen/sp_30"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_130" />
+</android.support.v7.widget.CardView>

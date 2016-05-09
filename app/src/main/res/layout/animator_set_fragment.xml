@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/header"
+        android:textSize="@dimen/sp_30"
+        android:layout_marginTop="@dimen/dp_10"
+        android:text="@string/animator_set"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/ball_layout"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/dp_100"
+        android:layout_width="@dimen/dp_70"
+        android:layout_height="@dimen/dp_70">
+
+        <ImageView
+            android:id="@+id/ball"
+            android:background="@drawable/ball"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ball_layout2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="@dimen/dp_100"
+        android:layout_width="@dimen/dp_70"
+        android:layout_height="@dimen/dp_70">
+
+        <ImageView
+            android:id="@+id/ball2"
+            android:background="@drawable/ball2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</RelativeLayout>
