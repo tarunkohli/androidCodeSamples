@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">android-helper</string>
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+    <string name="msg_ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="openfilehandler_title_param">Please install an app to open this kind of file: %1$s</string>
+    <string name="openfilehandler_title_pdf">Please install a PDF reader to view this file</string>
+    <string name="openfilehandler_noapp_message">Would you like to search for apps in Google Play?</string>
+    <string name="openfilehandler_noapp_search">Search</string>
+
+    <string name="openlinkdialog_title">Open website?</string>
+
+    <string name="all_elements">All elements</string>
+
+    <string name="pull_to_refresh_pull_label">Pull to refresh&#8230;</string>
+    <string name="pull_to_refresh_release_label">Release to refresh&#8230;</string>
+    <string name="pull_to_refresh_refreshing_label">Loading&#8230;</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh&#8230;</string>
+
+    <string name="intent_open_choose">Please choose an application</string>
+    <string name="intent_open_error">Can\'t find an appropriate application</string>
+
+    <string name="intent_phone_choose">Please choose an application to call with</string>
+    <string name="intent_phone_error">This device does not support calls</string>
+
+    <string name="intent_sms_choose">Please choose an SMS application</string>
+    <string name="intent_sms_error">This device does not support SMS</string>
+
+    <string name="intent_email_choose">Please choose an e-mail application</string>
+    <string name="intent_email_error">No e-mail clients found</string>
+
+    <string name="intent_map_choose">Please choose a maps application</string>
+    <string name="intent_map_error">No maps applications found</string>
+
+    <string name="event_list_datetime">%1$s</string>
+
+    <string name="load_dialog_loading">Loading data&#8230;</string>
+    <string name="error_connection_not_available">Error: network connection not available</string>
+
+    <string name="no_wifi_detected">WiFi connection not available</string>
+    <string name="no_wifi_detected_description">Do you want to download this file using a mobile connection?</string>
+</resources>
