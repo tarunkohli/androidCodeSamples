@@ -27,5 +27,7 @@ Download
 Gradle:
 
 dependencies {
+
 	compile 'com.qtsachit.android:helperlibrary:1.0'
+
     }
