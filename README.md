@@ -23,8 +23,9 @@ Utility classes included
 
 
 Download
+
 Gradle:
+
 dependencies {
-	compile 'com.qtsachit.android:helperlibrary:1.0''
-    // and your other dependencies
-}
+	compile 'com.qtsachit.android:helperlibrary:1.0'
+    }
