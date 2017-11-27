@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1097344772907",
+    "firebase_url": "https://chatbot-e3307.firebaseio.com",
+    "project_id": "chatbot-e3307",
+    "storage_bucket": "chatbot-e3307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097344772907:android:871200a6d5188edb",
+        "android_client_info": {
+          "package_name": "com.medcirclebot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097344772907-eenmndse6bjadomlike97de8f9mbegog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsOsVqS9x0-HDPWOOHkARjsHiUYV5Hh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
